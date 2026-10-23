@@ -1,0 +1,730 @@
+student_id,service,text,sentiment,theme
+STU_001,Teaching-Learning,good time management,Neutral,Practically supported  Teaching environment
+STU_001,Teaching-Learning,the absence of qualified instructors,Negative,Instructor support
+STU_001,Teaching-Learning,i have good about have good relation with teachers,Positive,Instructor support
+STU_001,Library,It has many rules  like not using earphone,Negative,Study space
+STU_001,Library,absence of internet in Gabisa Ejeta Library,Negative,Internet access
+STU_001,IT Support,its very good,Positive,Equipment quality
+STU_001,Registrar,its online,Neutral,Information clarity
+STU_001,Registrar,absence of website activeness,Negative,Information clarity
+STU_001,Registrar,it does not work without university internet,Negative,Information clarity
+STU_001,Cafeteria,water is always available,Positive,Variety of food
+STU_001,Cafeteria,lose of meal card,Neutral,price
+STU_001,Cafeteria,having good food when we were 1st year student,Positive,Food quality
+STU_001,Dormitory,it have an internet  service,Neutral,Room space
+STU_001,Dormitory,there is no problem,Neutral,Room space
+STU_002,Teaching-Learning,Not gained a clear explained information,Negative,Clarity of instruction
+STU_002,Teaching-Learning,Having discussion sessions is good,Positive,Classroom/learning environment
+STU_002,Library,The silence,Positive,Study space
+STU_002,Library,"Lack of some books, and disturbing sounds",Negative,Availability of materials
+STU_002,Library,Sometimes people talk loudly and that's bad,Negative,Staff behavior
+STU_002,IT Support,Network speed,Neutral,Internet speed
+STU_002,Registrar,There is nothing i like about it,Negative,Information clarity
+STU_002,Cafeteria,they provide the food on time,Positive,Waiting time
+STU_002,Cafeteria,The quality of the food,Neutral,Food quality
+STU_003,Teaching-Learning,During lecture,Neutral,Classroom/learning environment
+STU_003,Teaching-Learning,Some teachers prepare exam out of portion,Negative,Fairness of assessment
+STU_003,Library,No books but there's chairs,Negative,Availability of materials
+STU_003,Library,  good it's closed 6:00Am,Positive,Opening hours
+STU_003,Library, employees in library they're not have ethics,Negative,Staff behavior
+STU_003,IT Support,Wifi Hu student,Neutral,Equipment quality
+STU_003,Registrar,I don't know because I don't have long time with there's,Neutral,Waiting time
+STU_003,Cafeteria,Quality of food,Neutral,Food quality
+STU_003,Cafeteria,Service and quality of food,Neutral,Food quality
+STU_003,Dormitory,Chewing chatting guys they're always disturbing me,Negative,Room space
+STU_004,Teaching-Learning,The techer experience,Neutral,Use of technology
+STU_004,Library,The library mans,Neutral,Staff behavior
+STU_004,Library,Good is environment,Positive,Cleanliness
+STU_004,IT Support,For learning,Neutral,Equipment quality
+STU_004,IT Support,Increasing quality life,Neutral,Equipment quality
+STU_005,Teaching-Learning,Teacher are rigid,Negative,Instructor support
+STU_005,Teaching-Learning,Teacher are not rational,Negative,Instructor support
+STU_005,Teaching-Learning,Bad things that I experience was that instructors are not giving me proper instruction,Negative,Instructor support
+STU_005,Library,Electric,Neutral,Cleanliness
+STU_005,IT Support,Internet access,Neutral,Equipment quality
+STU_005,IT Support,Staff behavior,Neutral,Computer lab availability
+STU_005,Registrar,Staff behavior and time wasting,Negative,Staff support
+STU_005,Registrar,It is  time wasting,Negative,Waiting time
+STU_005,Dormitory,Internet service,Neutral,Room space
+STU_005,Dormitory,Dorm capacity is more than enough,Negative,Room space
+STU_006,Teaching-Learning,The way they teach us,Neutral,Classroom/learning environment
+STU_006,Teaching-Learning,Lack of focus,Negative,Classroom/learning environment
+STU_006,Library,Birds noise,Negative,Study space
+STU_006,Library,I lost my module,Neutral,security
+STU_006,IT Support,Network problem,Negative,Network stability
+STU_006,Cafeteria,The food is shit,Negative,Variety of food
+STU_006,Dormitory,The way they treat us,Neutral,Room space
+STU_007,Teaching-Learning,Its more attractive,Positive,Classroom/learning environment
+STU_007,Teaching-Learning,Class smartness,Neutral,Classroom/learning environment
+STU_007,Teaching-Learning,Good teachers,Positive,Instructor support
+STU_007,Library,Quite place,Positive,Study space
+STU_007,Library,Group discussion,Neutral,Cleanliness
+STU_007,IT Support,The infrastructor,Neutral,Access to systems/platforms
+STU_007,IT Support,Internet,Neutral,Equipment quality
+STU_007,IT Support,Smartness,Neutral,Equipment quality
+STU_007,Registrar,Servant are borings,Negative,Staff support
+STU_007,Cafeteria,Servants are arrogant,Neutral,Staff behavior
+STU_007,Cafeteria,Time,Neutral,Waiting time
+STU_007,Dormitory,Social communication,Neutral,Room space
+STU_007,Dormitory,Students character,Neutral,Room space
+STU_008,Teaching-Learning,The way they teach us,Neutral,Classroom/learning environment
+STU_008,Teaching-Learning,Lack of focus,Negative,Classroom/learning environment
+STU_008,Library,Birds noise,Negative,Cleanliness
+STU_008,Library,I lost my module,Neutral,security
+STU_008,IT Support,Network problem,Negative,Access to systems/platforms
+STU_008,Cafeteria,The food is shit,Negative,Variety of food
+STU_008,Dormitory,The way they treat us,Neutral,Staff behavior
+STU_009,Teaching-Learning,When you learning STATA SOFTWARE APPLICATION lack of technical support,Neutral,Practically supported  Teaching environment
+STU_009,Teaching-Learning,I have some lack of technical support and getting references materials,Negative,Use of technology in teaching
+STU_009,Library,Library is free from any sounds and very attractive for studies,Positive,Cleanliness
+STU_009,Library,Lack of some references and good material for my course,Negative,Availability of materials
+STU_009,IT Support,Lack of enough computer,Negative,Computer lab availability
+STU_009,Registrar,During face to face register,Neutral,Information clarity
+STU_009,Cafeteria,Breakfast,Neutral,Variety of food
+STU_009,Cafeteria,Lack of quality food,Negative,Food quality
+STU_009,Cafeteria,During taking meal card,Neutral,Staff behavior
+STU_010,Teaching-Learning,Teaching in a good ways,Positive,Classroom/learning environment
+STU_010,Teaching-Learning,No problem,Neutral,Classroom/learning environment
+STU_010,Teaching-Learning,No bad experience,Neutral,Classroom/learning environment
+STU_010,Library,Reading long time,Neutral,Cleanliness
+STU_010,Library,I can't read long time,Neutral,Cleanliness
+STU_010,IT Support,Reading with it,Positive,Internet access
+STU_010,IT Support,It's advantage is rarely,Neutral,Equipment quality
+STU_010,Registrar,It is good,Positive,System reliability
+STU_010,Registrar,No problem,Neutral,Information clarity
+STU_010,Registrar,It is useful,Positive,Information clarity
+STU_010,Cafeteria,Quality of food,Neutral,Food quality
+STU_010,Cafeteria,It is totally bad,Negative,Variety of food
+STU_010,Dormitory,It is good,Positive,Room space
+STU_010,Dormitory,No problem,Neutral,Room space
+STU_010,Dormitory,No problem,Neutral,Room space
+STU_011,Teaching-Learning,His clarity,Neutral,Clarity of instruction
+STU_011,Teaching-Learning,Moderate some time he loss class,Negative,availabity of instructors
+STU_011,Library,It's always open,Positive,Opening hours
+STU_011,IT Support,Availability,Neutral,Computer lab availability
+STU_011,IT Support,It's low strength,Negative,Internet speed
+STU_011,Cafeteria,Quality,Neutral,Food quality
+STU_011,Cafeteria,Good,Positive,Variety of food
+STU_011,Dormitory,It's peace,Neutral,Room space
+STU_012,Teaching-Learning,Practical session,Neutral,Classroom/learning environment
+STU_012,Teaching-Learning,Lack of teaching ability from lecturers,Negative,ability lectures
+STU_012,Teaching-Learning,I DON'T REMEMBER ALL THINGS,Neutral,Classroom/learning environment
+STU_012,IT Support,Internet speed,Neutral,Internet speed
+STU_013,Teaching-Learning,"I give assignments, quizzes, and practical exercises to assess students understanding. Feedback is provided to help them improve their performance",Neutral,Clarity of instruction
+STU_013,Teaching-Learning,"one common problem is low student participation. Some students are not confident enough to ask questions or share their ideas, which reduces classroom interaction.",Negative,Student engagement
+STU_013,Teaching-Learning,"One of the best learning experiences I had was in a course where the instructor used practical examples and real-life case studies. Instead of only giving lectures, the instructor encouraged discussion and group work. This helped me understand the concepts more deeply",Positive,Practically supported  Teaching environment
+STU_013,Library,What I like most about the library is the quiet and peaceful learning environment. The silence helps me concentrate better and focus on my studies without distractions.,Positive,Study space
+STU_013,Library,"Limited Books ,“ Sometimes the required textbooks are not available in enough copies, especially during exam periods.
+Outdated Materials ƒ€“ Some books and reference materials are old and may not contain updated information.",Negative,Availability of materials
+STU_013,Library,"One good experience I had while using the library was during my final exam preparation. I could not clearly understand one topic from class, so I went to the library to search for additional reference",Positive,Availability of materials
+STU_013,Registrar,"What I like most is that the registration and records office provides organized and clear academic support. They help students with course registration, updating personal information, and issuing academic documents like transcripts or certificates",Positive,Staff support
+STU_013,Registrar,"Long Waiting Time, During peak periods, such as registration or graduation, there can be long queues, which delay the process",Negative,Waiting time
+STU_013,Cafeteria,"It's very One bad experience I had was during a very busy period when the cafeteria was overcrowded. The food ran out quickly, and we had to wait a long time to get meals",Negative,Waiting time
+STU_013,Cafeteria,Clean,Positive,Hygiene
+STU_014,Teaching-Learning,I don't like any of them.  There boring. This system is not working for us. Its already dead system.,Negative,Classroom/learning environment
+STU_014,Teaching-Learning,"I think teaching and learning is not about scoring good grade. Learning is about behavioral change, growth, mature and so many thing. So ass accounting student we finsh some course but. Its not about changing us.  Its about finsh the course.",Negative,Fairness of assessment
+STU_014,Teaching-Learning,My bad experience is some of ur teacher us.  They look them self's us ancient king. And they don't want to understand students and they believe one paper of exam is define one student this is wrong.,Negative,Instructor support
+STU_014,Library,Its not good environment for study.,Negative,Study space  
+STU_014,Library,Okay we want to use internet wen we study. But in our library no internet.,Negative,Internet access
+STU_014,Library,"using internet is bad thing, even using earphones is bad think this is not good we live 21century",Negative,restriction from using earphone
+STU_014,IT Support,Internet and desktops is not good for use,Negative,Computer lab availability
+STU_014,IT Support,Bad about internet,Negative,Internet access
+STU_014,Registrar,Its is backward,Negative,Information clarity
+STU_014,Cafeteria,The food is not good for our health,Negative,Hygiene
+STU_014,Cafeteria,Food quality and quantity is not enough,Negative,Food quality
+STU_015,Teaching-Learning,Good,Positive,Classroom/learning environment
+STU_015,Teaching-Learning,Some lecture haven't experience how to explain their course so big challenge for me,Negative,Clarity of instruction
+STU_015,Library,Occasionally WiFi problem,Negative,Internet access
+STU_015,Registrar,When we registered for end day it challenge Because many students register within one day,Negative,Waiting time
+STU_015,Cafeteria,Good Alhmdullahi,Positive,price
+STU_015,Cafeteria,Number of students,Neutral,Variety of food
+STU_015,Dormitory,Some dorm haven't water supply,Negative,Water availability
+STU_016,Teaching-Learning,much of teaching style i dont like  bcz leactures are not open,Negative,Instructor support and interaction
+STU_016,Teaching-Learning,Time  after noun class not sutable to learing,Negative,Classroom/learning environment
+STU_016,Teaching-Learning,My bad experience is  reduce my point with out any reason,Negative,Fairness of assessment
+STU_016,IT Support,It has good wifi,Positive,Internet access
+STU_016,Registrar,I dont like it ther brocrase,Neutral,Information clarity
+STU_016,Registrar,They are not open,Negative,Waiting time
+STU_016,Cafeteria,some how good,Positive,Variety of food
+STU_006,Cafeteria,Meal card system  i dont like it ,Negative,Waiting time
+STU_006,Cafeteria,Quality of food and wot  reduce time to time,Negative,Food quality
+STU_016,Cafeteria,Even some emploee of cafe  not treat farirly,Negative,Staff behavior
+STU_016,Dormitory,Due to rule of dormitory  i sufered by chewing chat guys,Negative,Room space
+STU_016,Dormitory,Tolet  not good at all,Negative,water avalability 
+STU_017,Teaching-Learning,Nothing good in it,Negative,Classroom/learning environment
+STU_017,Teaching-Learning,Bad lecturers and they don't want u score above 3.5,Negative,Fairness of assessment
+STU_017,Teaching-Learning,Everthing about haramaya is bad,Negative,Classroom/learning environment
+STU_017,IT Support,Bad staff,Negative,Equipment quality
+STU_017,Registrar,I hate them everyone is illiterate,Negative,Staff support
+STU_017,Registrar,Bad system bad staff,Negative,Staff support
+STU_017,Cafeteria,I hate everything about cafe i will make sure no one i know will not join this university because it only has a name nothing more if i had a chance i will never come back here,Negative,Variety of food
+STU_018,Teaching-Learning,"Overall, I like the teachingƒ€“learning process because it helps me develop knowledge, skills, and confidence. When teaching is clear, interactive, and practical, learning becomes enjoyable and meaningful",Positive,Instructor support and interaction
+STU_018,Teaching-Learning,"The teachingƒ€“learning process can face several challenges, but these problems can be minimized through better communication, proper planning, student participation, and improved learning resources.",Negative,Student engagement
+STU_018,Teaching-Learning,One of my best learning experiences was in a course where the instructor used practical examples and step-by-step explanations to teach difficult topics.,Positive,Practically supported  Teaching environment
+STU_018,Library,"Overall, the library is a valuable place that supports academic success and encourages a strong study habit.",Neutral,study space
+STU_018,Library,"Improving book availability, digital resources, seating capacity, and library management would make the library more effective and student-friendly.",Neutral,Availability of materials
+STU_018,Library,"One of my best experiences in the library was during exam preparation. I needed additional reference materials to better understand some difficult topics. When I went to the library, I found useful textbooks and past exam papers that helped clarify the concepts.",Positive,Availability of materials
+STU_018,IT Support,"Overall, the availability of ICT and internet services enhances learning, makes studying more effective, and supports both individual and group work.",Neutral,Computer lab availability
+STU_018,IT Support,"Improving internet speed, providing more devices, ensuring technical support, and expanding access to digital resources would make ICT and internet services much more effective for learning.",Neutral,Internet speed
+STU_018,IT Support,"This experience showed me how ICT and internet services can make learning more efficient, save time, and provide access to a wide range of resources.",Neutral,Equipment quality
+STU_019,Teaching-Learning,Limited course modulen.,Negative,Learning materials
+STU_019,Teaching-Learning,a little student to teacher interaction.,Negative,Instructor supportand interaction
+STU_019,Teaching-Learning,"I have received a great course concept with a good explanations within a certain time frame. But some instructors tend not to provide a necessary course module or short notes which students are obliged to search for related materials from another universities. Again, the concept becomes absolutely different from the examination leading to a lower grade which is not fair.",Negative,Instructor support
+STU_019,Library,It is only allowed for female students.,Neutral,Cleanliness
+STU_019,Library,The problems I faced includes the intense cold weather because of some openings of the windows and a less inspection of sounds produced by students specially from shoes.,Negative,Study space
+STU_019,IT Support,Honest I haven't faced any specific problem from the internet availability.,Neutral,Computer lab availability
+STU_020,Teaching-Learning,Good Class participation,Positive,Student engagement
+STU_020,Teaching-Learning,"The good is class participation
+",Positive,Student engagement
+STU_020,Library,There is enough books,Positive,Availability of materials
+STU_020,Library,We can't use airphone,Negative,Cleanliness
+STU_020,Library,The library staff workers disturb us sometimes,Negative,Staff behavior
+STU_020,IT Support,"We have internet access in dormitory in all floor ,in library",Positive,Internet speed
+STU_020,IT Support,The wifi access is not that much fast,Negative,Internet speed
+STU_020,Registrar,Every students have their own user name this provides to secure students account,Positive,System reliability
+STU_020,Registrar,It is good,Positive,Information clarity
+STU_020,Cafeteria,May be the food is bad,Negative,Food quality
+STU_021,Teaching-Learning,Most of the teachers don't really know what they're teaching,Negative,Instructor support
+STU_021,Library,Shortage of places where student sit and read,Negative,Study space
+STU_021,Library,The limited number of sitting place or chairs,Negative,Study space
+STU_021,IT Support,It's free have high speed,Positive,Internet speed
+STU_021,Registrar,They disrespect their customer,Negative,Staff support
+STU_021,Cafeteria,The schedule of for lunch and dinner very similar and the quality of food,Negative,Food quality
+STU_021,Dormitory,Water availability,Neutral,Water availability
+STU_022,Teaching-Learning,most of them doesn't have understanding of the course they are teaching,Negative,Clarity of instruction
+STU_022,Teaching-Learning,they just only read the powerpoint,Negative,Classroom/learning environment
+STU_022,Library,when power goes out and when there is no wifi,Negative,Internet access
+STU_022,IT Support,free internet,Positive,Equipment quality
+STU_022,Registrar,Most of them disrespect the students,Negative,Staff support
+STU_022,Cafeteria,When the food stinks,Negative,Food quality
+STU_022,Dormitory,time challenge to solve the problem,Positive,Room space
+STU_023,Teaching-Learning,I think no have course,Neutral,Classroom/learning environment
+STU_023,Library,productive silence,Positive,Cleanliness
+STU_023,Library,"One of my most rewarding ""good"" experiences involves a cross-disciplinary breakthrough for a graduate student",Negative,Cleanliness
+STU_023,IT Support,for all online access,Positive,Equipment quality
+STU_023,IT Support,no have any challenge,Positive,Equipment quality
+STU_023,Registrar,"I've witnessed a recurring ""digital nightmare"" that many students face",Neutral,Information clarity
+STU_023,Cafeteria,in have good services,Positive,Variety of food
+STU_023,Cafeteria,"Based on the common data patterns and student frustrations I process, here are the most significant ""bad tastes"" left by cafeteria services",Negative,Food quality
+STU_023,Cafeteria,almost  it is the good,Positive,Variety of food
+STU_023,Dormitory,its  have good cleannes,Positive,Cleanliness
+STU_023,Dormitory,bad toilet area dormitory is very bad good for stay,Negative,Cleanliness
+STU_024,Teaching-Learning,Teaching method Little no good,Negative,Classroom/learning environment
+STU_024,Library,There is no enough space or chair in library during exam is reached,Negative,Study space
+STU_024,Library,No problem,Positive,Cleanliness
+STU_024,Registrar,They respect their time,Positive,Waiting time
+STU_024,Registrar,There two or three employee only work for all Student so it take a time,Negative,Waiting time
+STU_024,Dormitory,Lack of water,Negative,Water availability
+STU_024,Dormitory,Lack of clean toilet,Negative,Cleanliness
+STU_025,Teaching-Learning,From some instructor like unable to teach in easy for student and also overloaded.,Negative,Instructor support
+STU_025,Library,It is safe place to read and good to focus,Positive,Safety/security
+STU_025,Library,When there is to much user it is crowded and hard to focus,Negative,Availability of materials
+STU_025,IT Support,There environment is good for study which internet based,Positive,Equipment quality
+STU_025,IT Support,It not good to focus and read,Negative,Equipment quality
+STU_025,IT Support,It easy for collaborate and work together with others students,Positive,Computer lab availability
+STU_025,Registrar,It is online this make easy to some,Positive,Information clarity
+STU_025,Registrar,There is not fully Online which make as CCI college students am not recommended this which still manual and hard for many of us to find the one who give manual register. Even there maybe disrespect.,Negative,Information clarity
+STU_025,Registrar,"The good is it have online registration, but it must fully Online some times we get disrespect.",Negative,Waiting time
+STU_025,Cafeteria,Maybe breakfast,Neutral,Variety of food
+STU_025,Cafeteria,Fully am not recommend others this cafeteria.,Negative,Variety of food
+STU_025,Cafeteria,It is not good for students we hungry many times,Negative,Variety of food
+STU_025,Dormitory,It is good for students collaboration,Positive,Room space
+STU_025,Dormitory,Not much even the challenge may changed to opportunity.,Negative,Room space
+STU_025,Dormitory,"I have get many experience as there students come from d/t culture, place",Neutral,Room space
+STU_026,Teaching-Learning,Time west,Negative,Classroom/learning environment
+STU_026,Teaching-Learning,Good,Positive,Classroom/learning environment
+STU_026,Library,Daily open,Neutral,Opening hours
+STU_026,Library,Good,Positive,Cleanliness
+STU_026,IT Support,Information,Neutral,Equipment quality
+STU_026,IT Support,Good,Positive,Equipment quality
+STU_026,Registrar,Online registration,Neutral,Information clarity
+STU_026,Registrar,Good,Positive,Information clarity
+STU_026,Cafeteria,Everything,Neutral,Variety of food
+STU_026,Cafeteria,Good,Positive,Variety of food
+STU_026,Dormitory,Everything,Neutral,Room space
+STU_026,Dormitory,Good but wifi is very low speed,Negative,Room space
+STU_027,Teaching-Learning,problem solving,Neutral,Classroom/learning environment
+STU_027,Teaching-Learning,"Sometimes the lectures are too theoretical, and it's hard to connect the concepts to real-world problem solving. There is also a lack of consistent high-quality learning materials that support practical application.",Negative,Instructor support
+STU_027,Teaching-Learning,"(Good Experience) In my programming course, we had a project where we had to build a small application to solve a real problem, like a to-do list manager. The hands-on nature of it, where I had to figure out the logic and debug my own code, was incredibly effective. It was challenging but satisfying to see the final product work. This is a great example of problem-solving in action",Positive,Fairness of assessment
+STU_027,Library,"The physical study environment is quiet and conducive to focused work, which is good for when I need to concentrate on coding without distractions.",Positive,Study space
+STU_027,Library,"The main challenge is that the library's physical collection is almost entirely irrelevant to my field. As a Full Stack Developer, I don't need physical textbooks because technology changes too fast books are often outdated by the time they are published. The library's value for me would be in digital resources, but that's where the problems are.",Neutral,Availability of materials
+STU_027,Library,"(Bad Experience) I once went to the library hoping to find resources on a specific, modern JavaScript framework I was learning for a project. The few books they had on web development were years old, covering outdated technologies. It was a complete waste of time. I ended up using my mobile data to search for online documentation and tutorials, which I could have done from home.",Negative,Availability of materials
+STU_027,IT Support,it is good,Positive,Equipment quality
+STU_027,IT Support,lack of accessiblity,Negative,Equipment quality
+STU_027,Registrar,"When the online portal works properly, it is convenient to register for classes and check my grades from anywhere without having to wait in line",Positive,Waiting time
+STU_027,Registrar,"The biggest challenge is system reliability. During peak times (like the start of registration), the portal often crashes or becomes extremely slow. Additionally, the information about course prerequisites and waitlists is sometimes unclear or changes unexpectedly.",Negative,Waiting time
+STU_027,Registrar,"(Bad Experience) Last semester, on registration day, the system kept timing out right when I tried to submit my course selections. By the time I could finally get back in, the advanced programming class I needed (which is only offered once a year) was full. I had to scramble to find alternatives and ended up falling behind in my graduation plan. It was frustrating because the issue wasn't my preparation, but the unreliable technology.",Negative,Waiting time
+STU_027,Cafeteria,"It's conveniently located on campus, so I can grab a quick meal between classes without having to leave and waste time. It's also a good place to meet up with classmates to discuss projects.",Positive,Variety of food
+STU_027,Cafeteria,"The main challenges are the long waiting times during peak hours and the lack of healthy, nutritious food options. Most of the food is fried, heavy, or repetitive, which affects my energy and concentration for afternoon coding sessions.",Negative,Food quality
+STU_027,Dormitory,"When I did stay there, the proximity to campus was the biggest advantage. I could wake up later and still make it to class on time, and it was easy to access the library and lab facilities late at night when I was working on projects",Neutral,Room space
+STU_027,Dormitory,"The main challenges were the unreliable internet connection and the slow response to maintenance requests. As a developer, I need stable internet to work on my projects, and it was frustrating when issues like a broken desk lamp or a leaking tap took weeks to get fixed.",Negative,Room space
+STU_027,Dormitory,"(Bad Experience) During my second year, I had a major group project deadline. My room's Wi-Fi router was malfunctioning, and I couldn't connect to my online repositories or documentation. I reported it immediately, but it took the maintenance team almost two weeks to come and fix it. I had to rely on my mobile hotspot for days, which was slow and used up all my data. It was incredibly stressful and made collaborating with my team much harder than it needed to be.",Negative,Room space
+STU_028,Teaching-Learning,I LIKE just teching other my class mate,Neutral,Use of technology
+STU_028,Cafeteria,in cafteria there is very low quality of food . everbody works on cafteri have not enough sell care most of them are wear derty dresse and generally it is not what expect from this big uviversity,Negative,Food quality
+STU_028,Cafeteria,they look person there is no fair service they give more attention ffor local students rather than,Negative,Variety of food
+STU_028,Dormitory,every door or boxer have not look and it has very bad smell plus there is insects called tuhaan,Negative,Room space
+STU_028,Dormitory,tuhan,Negative,Room space
+STU_029,Teaching-Learning,Long hour learning,Neutral,Classroom/learning environment
+STU_029,Teaching-Learning,I don't have specific problem,Neutral,Classroom/learning environment
+STU_029,Library,Peace around there,Positive,Cleanliness
+STU_029,Library,No access of WiFi in female library,Negative,Internet access
+STU_029,Registrar,The internet problem,Negative,Information clarity
+STU_029,Registrar,Non of ur business,Negative,Information clarity
+STU_030,Teaching-Learning,"Courses are most engaging when there   is a real interaction, like open discussions where students can question ideas, share perspectives, and connect theory to real-life situations. Practical sessions also make a big difference because they turn abstract concepts into something you can actually apply and understand. I also value when instructors encourage participation and create space for different viewpoints. It makes the learning environment more collaborative and helps the material stick better than just listening to lectures alone.",Neutral,Clarity of instruction
+STU_030,Teaching-Learning,"Some of the main challenges I have experienced include:
+Too much focus on one-way lectures with limited interaction or discussion
+Difficulty connecting theoretical content to practical, real-world application
+Limited time for questions or deeper explanation during class
+Uneven pace, where some topics move too fast while others feel slow
+Lack of sufficient practical sessions or hands-on activities
+Minimal feedback on assignments or participation
+These issues can sometimes make it harder to stay fully engaged or to clearly understand how to apply what is being taught.",Negative,Clarity of instruction
+STU_030,Teaching-Learning,"In one course, we had a session where the instructor moved beyond the usual lecture and gave us a real-world case to work on in small groups.
+Instead of just explaining the theory, we had to apply the concepts to solve a practical problem and then present our approach to the class. The discussion that followed was open and interactive, with different groups defending their ideas and the instructor guiding us with questions rather than giving direct answers.
+That experience stood out because it made the material easier to understand and remember. It also built confidence in using what we learned, not just memorizing it for exams. It felt like genuine learning rather than just completing a requirement.",Positive,Clarity of instruction
+STU_030,IT Support,sometimes it stacks,Negative,Access to systems/platforms
+STU_031,Teaching-Learning,its going well,Negative,Classroom/learning environment
+STU_031,Teaching-Learning,in my learning process i challenge  shortage of time to practice,Negative,Classroom/learning environment
+STU_031,Teaching-Learning,bad experiance is practicing during night and having class whole day,Negative,Classroom/learning environment
+STU_031,Library,noise,Negative,Study space
+STU_031,Library,bad experiance is we cant use erphone in the library,Negative,Study space
+STU_031,IT Support,i like it its good,Positive,Equipment quality
+STU_031,IT Support,some times it disconnected,Neutral,Network stability
+STU_031,IT Support,good most time  we have,Positive,Equipment quality
+STU_031,Registrar,its online we dont have to go in physical,Positive,Information clarity
+STU_031,Registrar,there is no physical boundary in the university,Positive,Information clarity
+STU_031,Cafeteria,time limitation,Negative,Waiting time
+STU_031,Dormitory,social life,Neutral,Room space
+STU_031,Dormitory,exchange culture,Neutral,Room space
+STU_032,Teaching-Learning,i would like to theory with practical learning process,Neutral,Classroom/learning environment
+STU_032,Teaching-Learning,"lack of clear understanding, i am afraid person during class participation, class presentation and generally still i can not talk in front of people(community), boring(boredom) during in the class learning time due to take a long time like 2:00 and above",Negative,Clarity of instruction
+STU_032,Teaching-Learning,"i can not understand theoretical learning in the class, b/c lake of attension.",Negative,Clarity of instruction
+STU_032,Library,"i would like to balance air condition space, quit or have not any disrupt sound in space",Neutral,Study space
+STU_032,Library,"i can not read in long time, i dont like heat, any disrupt sound ...etc.",Negative,Study space
+STU_032,Library,"i would like to comfortable or favorable space condition, access availability of materials, internet access and so on.",Positive,Study space
+STU_032,IT Support,i want to learn any ict service,Neutral,Equipment quality
+STU_032,IT Support,lack of ict knowledge,Negative,Technical support
+STU_032,IT Support,lack of working process,Negative,Technical support
+STU_032,Registrar,its good,Positive,Information clarity
+STU_032,Registrar,face to face register is some challenges,Negative,Information clarity
+STU_032,Registrar,  face to face is bad.,Negative,Information clarity
+STU_032,Cafeteria,its good,Positive,Variety of food
+STU_032,Cafeteria,food insecurity and quantity,Negative,Variety of food
+STU_032,Cafeteria,i obtain chat within wote,Negative,Variety of food
+STU_032,Dormitory,diversity,Neutral,Room space
+STU_032,Dormitory,lack of material availability,Negative,Room space
+STU_032,Dormitory,security,Negative,Safety/security
+STU_033,Teaching-Learning,It is great,Positive,Classroom/learning environment
+STU_033,Teaching-Learning,It is good,Positive,Classroom/learning environment
+STU_033,Library,It's silence,Positive,Cleanliness
+STU_033,Library,It doesn't have any  books,Negative,Availability of materials
+STU_033,Library,Good,Positive,Cleanliness
+STU_033,IT Support,It's very weak and it can't support many student,Negative,Technical support
+STU_033,Registrar,Good,Positive,Information clarity
+STU_033,Registrar,Server can't support many users,Negative,Process speed
+STU_033,Registrar,Server  lags,Negative,Process speed
+STU_033,Dormitory,It is moderate,Neutral,Room space
+STU_033,Dormitory,Yes the dormitories are bad,Negative,Room space
+STU_034,Teaching-Learning,Long time listening to lecture is my difficult,Negative,Classroom/learning environment
+STU_034,Teaching-Learning,It teach me how to struggle in less time different activities,Neutral,Classroom/learning environment
+STU_034,Library,"Internet five g because used to learn by AI
+Silent...",Neutral,Internet access
+STU_034,Registrar,It is online,Positive,Information clarity
+STU_034,Registrar,Wifi problem,Negative,Information clarity
+STU_035,Teaching-Learning,I gain more knowledge,Positive,Classroom/learning environment
+STU_035,Teaching-Learning,Very good,Positive,Classroom/learning environment
+STU_035,Library,Use computer digital library,Neutral,Cleanliness
+STU_035,Library,Lack of computer digital library,Negative,Internet access
+STU_035,IT Support,More knowledge,Neutral,Equipment quality
+STU_035,IT Support,Small number of computers,Negative,Computer lab availability
+STU_035,IT Support,Absolutely fine,Positive,Equipment quality
+STU_035,Registrar,Easy for students,Positive,Information clarity
+STU_035,Registrar,Good behavioris better,Positive,Information clarity
+STU_035,Registrar,Be open-minded,Neutral,Information clarity
+STU_035,Cafeteria,Treatment,Neutral,Variety of food
+STU_035,Cafeteria,Lack of cooker,Negative,Variety of food
+STU_035,Cafeteria,Good experience,Positive,Variety of food
+STU_035,Dormitory,Good behavioris,Positive,Room space
+STU_035,Dormitory,No bad challenges,Negative,Room space
+STU_036,Library,Lack of electrical and computer  materials,Negative,Availability of materials
+STU_036,IT Support,I don't have any material,Negative,Technical support
+STU_036,IT Support,It has very poor qualities of computers,Negative,Equipment quality
+STU_036,Registrar,The problem is the portal system,Negative,System reliability
+STU_036,Registrar,The difference between the old and new portal,Neutral,Information clarity
+STU_036,Cafeteria,The good thing is about time,Positive,Waiting time
+STU_036,Cafeteria,The quality is zero,Negative,Food quality
+STU_036,Cafeteria," 
+The bad thing is quality",Negative,Food quality
+STU_036,Dormitory,It is not bad,Neutral,Room space
+STU_036,Dormitory,The secret problem,Negative,Room space
+STU_036,Dormitory,At the moment of exam it is not easy,Negative,Room space
+STU_037,Teaching-Learning,Everything is good,Positive,Classroom/learning environment
+STU_037,Library,I've never been there,Neutral,Cleanliness
+STU_037,IT Support,The noises of my classmates,Negative,Equipment quality
+STU_038,Teaching-Learning,haven't enough time to understand the lecture,Negative,Clarity of instruction
+STU_038,Teaching-Learning,it take along time to understand that course,Negative,Clarity of instruction
+STU_038,Library,a place of silent reading without any disturbance,Positive,Cleanliness
+STU_038,Library,lack of enough material,Negative,Availability of materials
+STU_038,Library,if there is some disturbing material like loud speaker around the library idon't like,Negative,Staff behavior
+STU_038,IT Support,to learn online from d/t sources,Neutral,Access to systems/platforms
+STU_038,IT Support,lack of enough internet,Negative,Access to systems/platforms
+STU_038,IT Support,"to get new information about learn it is good,but it take alots of time",Positive,Equipment quality
+STU_038,Registrar,becouse is  it important to control the students time to time,Positive,Waiting time
+STU_038,Registrar,sometimes it made problem when link is not open at a time during online registration,Negative,Waiting time
+STU_038,Registrar,some instructor not present at time during face to face registration,Negative,Waiting time
+STU_038,Cafeteria,it is bad about cafeteria,Negative,Variety of food
+STU_038,Cafeteria,cause of disease becouse it is sometimes contaminated food is prepared,Negative,Food quality
+STU_038,Cafeteria,the ways of preparation is bad,Negative,Variety of food
+STU_038,Dormitory,a place where take a rest with sleeping,Neutral,Room space
+STU_038,Dormitory,some times there is sound disturb around the dorm,Negative,Room space
+STU_038,Dormitory,some students reflect the bad manner in the dorm,Negative,Room space
+STU_039,Teaching-Learning,the teacher not being engaging.,Negative,Student engagement
+STU_039,Teaching-Learning,good part is when the teacher make you have fun in the learning process .,Positive,Instructor support and interaction
+STU_039,Library,they take my headphone .,Negative,Study space
+STU_039,Library,"bad they toke my headphone , they tolled me if i have a headphone they will kick me out",Negative,Study space
+STU_039,IT Support,you can use it 24/7 .,Positive,Computer lab availability
+STU_039,IT Support,not having enough pc working,Negative,Computer lab availability
+STU_039,IT Support,when i was using a network one time the network sadly stope working,Neutral,Waiting time
+STU_039,Registrar,the response speed,Neutral,Process speed
+STU_039,Dormitory,"bad smell , and i have an allergy , and having sleep taking dorm mate ,if you have them you can't sleep .",Negative,Room space
+STU_040,Teaching-Learning,I prefer not to say,Neutral,Classroom/learning environment
+STU_040,Library,makes you feel peaceful,Positive,Cleanliness
+STU_040,Library,"They say it's open for 24 hours, but it's not",Negative,Opening hours
+STU_040,IT Support,the WiFi is very slow,Negative,Internet speed
+STU_040,IT Support,just bad Internet service,Negative,Network stability
+STU_040,Registrar,can't log in without HU WiFi but it's hard to log in.,Negative,System reliability
+STU_040,Registrar,easy to use,Positive,Information clarity
+STU_040,Cafeteria,sometimes good food and sometimes bad,Neutral,Food quality
+STU_040,Dormitory,it's not clean,Negative,Cleanliness
+STU_041,Teaching-Learning,The discussion part,Neutral,Student engagement
+STU_041,Teaching-Learning,"The time, it's a bit long..",Negative,Classroom/learning environment
+STU_041,Library,It's a bit too cold.,Neutral,Cleanliness
+STU_041,IT Support,It's fine..,Positive,Equipment quality
+STU_041,IT Support,It lack speed.,Negative,Internet speed
+STU_041,IT Support,It's quite fine tbh so that's the good quality..,Positive,Equipment quality
+STU_041,Registrar,It's privacy.,Positive,System reliability
+STU_041,Registrar,It only open in the university WiFi so that's the bad experience..,Negative,Information clarity
+STU_041,Dormitory,My bed.,Neutral,Room space
+STU_041,Dormitory,Good experience it's a good place to sleep..,Positive,Room space
+STU_042,Teaching-Learning,lack of Practical sessions,Negative,Practically supported  Teaching environment
+STU_042,Teaching-Learning,Long hours of lectures,Negative,Instructor support and interaction
+STU_042,Teaching-Learning,Teachers good interaction with student,Positive,Instructor support and interaction
+STU_042,Library,Nothing upto now,Neutral,Cleanliness
+STU_042,IT Support,Very helpful academically,Positive,Equipment quality
+STU_042,IT Support,The good  internet speed,Positive,Internet speed
+STU_042,Registrar,Reduction of paperwork,Positive,Information clarity
+STU_042,Registrar,Easily accessed,Positive,Information clarity
+STU_043,Teaching-Learning,Lack of acting in reality what in learn theoretically,Negative,Practically supported  Teaching environment
+STU_043,Teaching-Learning,Public Sector Accounting,Neutral,Practically supported  Teaching environment
+STU_043,Cafeteria,Overcrowding,Negative,Seating space
+STU_043,Cafeteria,Lack space Due to overcrowding in one cafeteria,Negative,Seating space
+STU_043,Dormitory,His freedom,Positive,Room space
+STU_043,Dormitory,Conflict with some dormitory,Negative,Room space
+STU_043,Dormitory,Tun offing of wifi when conflict with him,Neutral,Room space
+STU_044,Teaching-Learning,No time for self learners,Negative,Classroom/learning environment
+STU_044,Teaching-Learning,No attendance mandatory classes,Negative,Classroom/learning environment
+STU_044,IT Support,Good internet speed at Hu,Positive,Internet speed
+STU_045,Teaching-Learning,I like teachers support,Positive,Instructor support
+STU_045,Teaching-Learning,Teachers some time didn't understood student,Negative,Instructor support
+STU_045,IT Support,The network is fast,Positive,Internet speed
+STU_045,IT Support,It is not all place,Negative,Equipment quality
+STU_045,Dormitory,Good service,Positive,Room space
+STU_045,Dormitory,I have no any,Neutral,Room space
+STU_046,Teaching-Learning,"The Systen focus only on theoretical part its lecturing students not, focus on practical part. The education need real life practical projects.",Negative,Practically supported  Teaching environment
+STU_046,Teaching-Learning,Somehow its good.,Positive,Classroom/learning environment
+STU_046,IT Support,Its speed is very good,Positive,Internet speed
+STU_046,IT Support,Its very nice,Positive,Equipment quality
+STU_047,Teaching-Learning,Practical sessions is not enough,Neutral,Practically supported  Teaching environment
+STU_047,Teaching-Learning,Outdated system or curriculum  that is not  fit with todays growing world,Negative,Practically supported  Teaching environment
+STU_047,Teaching-Learning,Ways to interprete every type of datum in any statical software,Neutral,Practically supported  Teaching environment
+STU_047,Library,It is the most Quite  place,Positive,Cleanliness
+STU_047,IT Support,Helps to improve our skill in short,Neutral,Equipment quality
+STU_048,Teaching-Learning,I don't like their teaching process,Negative,Practically supported  Teaching environment
+STU_048,Teaching-Learning,Most of them cancel class often,Negative,Practically supported  Teaching environment
+STU_048,Teaching-Learning,The lecturers dont wanna hear you if you have a problem in your grade or anything,Negative,Fairness of assessment
+STU_048,Library,It's peacefull,Positive,Study space
+STU_048,IT Support,The speed is good,Positive,Internet speed
+STU_048,Registrar,My department registeration process is actually good,Positive,Information clarity
+STU_048,Registrar,They are not available in their office most of the time,Negative,Staff support
+STU_048,Dormitory,They clean twice so that's  good,Positive,Cleanliness
+STU_048,Dormitory,My dorm mates and their music,Neutral,Room space
+STU_048,Dormitory,I dont have bad experience,Positive,Room space
+STU_049,Teaching-Learning,learning from a person who doesn't know anything,Negative,Classroom/learning environment
+STU_050,Teaching-Learning,Luck of technology,Negative,Use of technology
+STU_051,Teaching-Learning,in my case the lecture is boring and most of the time he only reads the pdf and doesn't give a new useful information about the course.,Negative,Classroom/learning environment
+STU_051,Library,"You can't break your pc in main library, you can't have an earphone, you can't have a bottle of water so many nonsense rules. And a very slow wifi.",Negative,Internet access
+STU_051,Library,They say I couldn't enter the library because I was wearing a pants.,Negative,Cleanliness
+STU_051,IT Support,I don't have much experience to talk about it,Neutral,Equipment quality
+STU_052,Teaching-Learning,I think it is best that the teachers should give test from each chapter because it makes the students well prepared for future mid and final.,Positive,Instructor support
+STU_052,Teaching-Learning,Some lectures have't motivation to teach. They enter to the class and they teach with out projector even their note is random writting.,Negative,Classroom/learning environment
+STU_052,Teaching-Learning,The computer laboratory should be available for students at desire time. Some computer related courses need lab so the lab must be give enough access,Negative,Use of technology
+STU_052,Library,"No problem,but it must clean.",Negative,Cleanliness
+STU_052,Library,There is no internet access,Negative,Internet access
+STU_052,IT Support,It is best,Positive,Equipment quality
+STU_052,IT Support,Some times it is not access because of electricity,Negative,Equipment quality
+STU_052,IT Support,Almost good internet is available at student dormitory,Positive,Computer lab availability
+STU_052,Cafeteria,Time honesty short,Negative,Waiting time
+STU_052,Cafeteria,At the end of time there is shortage of food and tea,Negative,Food quality
+STU_052,Cafeteria,"The food quality is extermly low, I get a chat and other bad things in wot",Negative,Food quality
+STU_053,Teaching-Learning,This impressive,Positive,Classroom/learning environment
+STU_053,Library,quite,Positive,Cleanliness
+STU_053,Library,we want to study by video and there new not allowed,Negative,Internet access
+STU_053,Registrar,reduce the energy,Positive,System reliability
+STU_053,Registrar,there is lack of Internet,Negative,Information clarity
+STU_053,Dormitory,it's clean,Positive,Cleanliness
+STU_053,Dormitory,good,Positive,Room space
+STU_054,Teaching-Learning,not for all but some english words are very hard,Negative,Classroom/learning environment
+STU_054,Teaching-Learning,good becouse we know the new subject and theory,Positive,Classroom/learning environment
+STU_054,Library,their silence,Positive,Cleanliness
+STU_054,Library,some disturbance like chair or table noise,Negative,Study space
+STU_054,IT Support,fasting and save the money,Positive,Equipment quality
+STU_054,IT Support,Challenge for studying something.,Negative,Equipment quality
+STU_054,IT Support,good to study and to know something.,Positive,Equipment quality
+STU_054,Registrar,its system is online,Positive,Information clarity
+STU_054,Registrar,good thing is to save our time and energy,Positive,Waiting time
+STU_054,Cafeteria,the food test something bad taste,Negative,Food quality
+STU_054,Dormitory,its safe,Positive,Safety/security
+STU_054,Dormitory,"Live in a different people,culture and other",Positive,Room space
+STU_055,Teaching-Learning,without attendance because some teacher use amharic,Negative,Instructor support
+STU_055,Teaching-Learning,amharic language,Neutral,Classroom/learning environment
+STU_055,Teaching-Learning,learning by only English is good,Positive,Classroom/learning environment
+STU_055,IT Support,no problem,Positive,Equipment quality
+STU_055,Registrar,face to face,Neutral,Information clarity
+STU_055,Cafeteria,only injera and shiro,Negative,Variety of food
+STU_056,Teaching-Learning,I like group discussions because they help me understand different viewpoints. This improves my critical thinking skills.,Positive,Clarity of instruction
+STU_056,Teaching-Learning,"One of the challenges I have experienced in the teaching and“learning process is the fast pace of instruction in some courses, especially in subjects that require detailed problem-solving and deep understanding. At times, it can be difficult to fully grasp complex topics within a limited time",Negative,Clarity of instruction
+STU_056,Teaching-Learning,"My overall learning experience at Haramaya University has been positive across my courses. In subjects such as physics, mathematics, logic, psychology, English, and geography, instructors often encourage understanding, critical thinking, and class participation. This has helped me improve my analytical skills, communication ability, and confidence in expressing my ideas.
+However, in some courses, the pace of instruction can be fast, which sometimes makes it challenging to fully grasp complex topics immediately. Despite this, these challenges have encouraged me to study independently, ask questions, and manage my time more effectively. Overall, the teachingƒ€“learning process has contributed significantly to my academic growth.",Positive,Clarity of instruction
+STU_056,IT Support,occasional network instability and limited access during busy hours sometimes create difficulties,Negative,Equipment quality
+STU_056,Registrar,It has limited time while there's some challenging of internet,Negative,Waiting time
+STU_056,Cafeteria,Insufficient of food,Negative,Food quality
+STU_057,Teaching-Learning,lack of The practical sessions,Negative,Practically supported  Teaching environment
+STU_057,Teaching-Learning,Not being on the same page with the teacher.,Negative,Instructor support and interaction
+STU_057,Teaching-Learning,As I mentioned above the practical sessions motivate me to perform better...it's better to learn with practicing.,Neutral,Practically supported  Teaching environment
+STU_057,Library,Not enough connection...,Negative,Cleanliness
+STU_057,IT Support,Speed.,Positive,Internet speed
+STU_057,IT Support,Not working in some places.,Negative,Equipment quality
+STU_057,IT Support,I can say the good sides are more than the bad ones. for example 24/7 availablity,Positive,Computer lab availability
+STU_057,Registrar,Its Digital.,Positive,Information clarity
+STU_057,Registrar,The system is not stable sometimes,Negative,System reliability
+STU_057,Registrar,the time of period that is given for specific event. and there is no enough information support,Negative,Information clarity
+STU_057,Cafeteria,The food,Neutral,Food quality
+STU_058,Teaching-Learning,Not Using my time effectively,Negative,Instructor support and interaction
+STU_058,Teaching-Learning,Lack of punctuality,Negative,Instructor support and interaction
+STU_058,Library,It's very nice to read in it,Positive,Cleanliness
+STU_058,Library,It is calmed place without any noise,Positive,Cleanliness
+STU_058,IT Support,It is 5G,Positive,Study space
+STU_058,IT Support,It cannot open all the links and lacks speed,Negative,Internet speed
+STU_058,IT Support,It is not working all day effectively,Negative,Equipment quality
+STU_058,Registrar,Their links of registration cannot opened easily due to network problems of their WiFi,Negative,Information clarity
+STU_058,Registrar,It consumed my time while registration,Negative,Waiting time
+STU_058,Cafeteria,Their quality,Neutral,Food quality
+STU_058,Cafeteria,I can say It's good at,Positive,Variety of food
+STU_058,Dormitory,It's pleasure,Positive,Room space
+STU_058,Dormitory,Some times their electricity will be turned off,Negative,Room space
+STU_058,Dormitory,It's problems of electricity and WiFi,Negative,Room space
+STU_059,Teaching-Learning,No problem,Positive,Classroom/learning environment
+STU_059,Library,Library is every time open so this good,Positive,Opening hours
+STU_059,Library,Good,Positive,Cleanliness
+STU_059,IT Support,There is some challenges in equioments,Negative,Equipment quality
+STU_059,IT Support,Good,Positive,Equipment quality
+STU_059,Registrar,No problem,Positive,Information clarity
+STU_059,Registrar,Neither bad nor good,Neutral,Information clarity
+STU_059,Cafeteria,All are good,Positive,Variety of food
+STU_059,Cafeteria,No problem all are good,Positive,Variety of food
+STU_059,Dormitory,It give good service,Positive,Room space
+STU_059,Dormitory,No problem,Positive,Room space
+STU_059,Dormitory,Every time it's open to give service,Positive,Room space
+STU_060,Teaching-Learning,No problem,Positive,Classroom/learning environment
+STU_060,Library,Silence and comfortable,Positive,Cleanliness
+STU_060,Library,No problem,Positive,Cleanliness
+STU_060,IT Support, WiFi   is not working well,Negative,Equipment quality
+STU_060,IT Support,WiFi is not working well,Negative,Equipment quality
+STU_060,IT Support,No problem,Positive,Equipment quality
+STU_060,Registrar,To become online,Positive,Information clarity
+STU_060,Cafeteria,Respect from who work in the cafe,Neutral,Variety of food
+STU_060,Dormitory,There is no water upper ground,Negative,Water availability
+STU_061,Teaching-Learning,Fear,Negative,Classroom/learning environment
+STU_061,Teaching-Learning,Loudly speaking,Neutral,Classroom/learning environment
+STU_061,Library,Talking of careless girls,Negative,Study space
+STU_061,Library,bad is talking of girls,Negative,Study space
+STU_061,IT Support,It's is my very interesting service,Positive,Equipment quality
+STU_061,IT Support, bad is addiction of it,Negative,Equipment quality
+STU_061,Registrar,I'm use it to look portal,Neutral,System reliability
+STU_061,Cafeteria,It's opening timely,Positive,Waiting time
+STU_061,Cafeteria,In morning its closing at 8:00am,Neutral,Variety of food
+STU_061,Dormitory,It's is friendliness,Neutral,Room space
+STU_061,Dormitory,When I studying talking of others student,Neutral,Room space
+STU_062,Teaching-Learning,No problem,Positive,Classroom/learning environment
+STU_062,Teaching-Learning,All are good,Positive,Classroom/learning environment
+STU_062,Library,Its good condition,Positive,Cleanliness
+STU_062,Library,No problem,Positive,Cleanliness
+STU_062,Library,All are good,Positive,Cleanliness
+STU_062,IT Support,It's good,Positive,Equipment quality
+STU_062,IT Support,If it's improve good,Positive,Equipment quality
+STU_062,Registrar,No problem,Positive,Information clarity
+STU_062,Cafeteria,Service is good,Positive,Variety of food
+STU_062,Cafeteria,No problem,Positive,Variety of food
+STU_062,Cafeteria,All are good,Positive,Variety of food
+STU_062,Dormitory,Good service,Positive,Room space
+STU_062,Dormitory,No problem,Positive,Room space
+STU_062,Dormitory,All are good,Positive,Room space
+STU_063,Teaching-Learning,Discussion of teacher and student is good,Positive,Student engagement
+STU_063,Library,Have no any book that suitable with my department courses and student reading class by PC is very small,Negative,Availability of materials
+STU_063,Registrar,It's online,Positive,Information clarity
+STU_063,Registrar,Point incorrect time,Negative,Error handling
+STU_064,Library,Silence and comfortable,Positive,Cleanliness
+STU_064,Library,No problem,Positive,Cleanliness
+STU_064,IT Support,internet have no speed,Negative,Internet speed
+STU_064,Registrar,Comfortable,Positive,Information clarity
+STU_064,Cafeteria,Respect and discipline,Positive,Waiting time
+STU_064,Dormitory,All except water,Positive,Water availability
+STU_064,Dormitory,Problem of water,Negative,Water availability
+STU_065,Teaching-Learning,The teachers teaching style,Positive,Instructor support and interaction
+STU_065,Teaching-Learning,Physics teacher makeing the course fun to learn,Positive,Instructor support and interaction
+STU_065,Library,The silence,Positive,Cleanliness
+STU_065,Library,Not being clean and the bird sound when it's night,Negative,Cleanliness
+STU_065,IT Support,How easy it is to get information,Neutral,Equipment quality
+STU_065,IT Support,Not having access because of the places,Negative,Equipment quality
+STU_065,IT Support,I get information easily,Positive,Equipment quality
+STU_065,Registrar,That it's online,Positive,Information clarity
+STU_065,Registrar,Slow internet,Negative,Process speed
+STU_065,Cafeteria,The food isn't good nor the smell,Negative,Food quality
+STU_065,Cafeteria,Food isn't good,Negative,Food quality
+STU_065,Dormitory,The lighting and the dorm room in general,Neutral,Room space
+STU_066,Teaching-Learning,Flexible schedule,Positive,Practically supported  Teaching environment
+STU_066,Teaching-Learning,Practical lessons are hard to implement,Neutral,Practically supported  Teaching environment
+STU_066,IT Support,Im very satisfied with the availability of internet across the compound,Positive,Computer lab availability
+STU_066,Registrar,It's not available outside the campus,Negative,System reliability
+STU_066,Dormitory,"Lockers are mostly broken, the doors don't have locks",Negative,Room space
+STU_066,Dormitory,A dorm with a broken window frame letting in cold air,Negative,Room space
+STU_067,Teaching-Learning,Dealing with lecturers mood swings and how badly they treat students when they are in a bad mood,Negative,Instructor support and interaction
+STU_067,Teaching-Learning,A teacher refused to let me in because he was pissed off that day and I was just 2 mins late in a 7 30 pm class and I had a presentation that day so he gave me 10/20 because I was 2 mins late.,Neutral,Instructor support and interaction
+STU_067,IT Support,The wifi doesn't reache my dorm so whenever there's a need to use the university's wifi for registration and stuff I need to get out of my dorm which most people don't have to so that's a challenge specially on cold days,Negative,Equipment quality
+STU_067,IT Support,It's a little slow,Negative,Internet speed
+STU_067,Registrar,How easy is to use,Positive,Information clarity
+STU_067,Registrar,The website not working and not saving my progress I think it's because it get overcrowded,Negative,System reliability
+STU_067,Registrar,It wouldn't let me register so I had to stay up all night trying to register and since the wifi doesn't work Inside my dorm I had to sit outside in that freezing cold to register,Negative,Information clarity
+STU_067,Dormitory,Water and bathroom being not clean,Negative,Water availability
+STU_067,Dormitory,Our bathroom leaks water so there's always water on the ground clean water dw and no water that we can actually use,Negative,Room space
+STU_068,Teaching-Learning,I like that I can ask questions and get answers quickly. It helps me understand things better.,Positive,Clarity of instruction
+STU_068,Teaching-Learning,"Sometimes it's hard to focus for a long time, and some topics feel confusing or difficult to understand. Also, if there is no one to ask when I get stuck, it becomes harder to keep up",Negative,Clarity of instruction
+STU_068,Teaching-Learning,"Sometimes it's™ hard to understand abstract theories like inflation or opportunity cost. The graphs can also be confusing, especially when many lines and curves are shown at once. If the teacher moves too fast, it becomes difficult to connect everything.",Negative,Clarity of instruction
+STU_068,Library,"Some rules, like you can't use headphone for youtube video.",Negative,Cleanliness
+STU_068,Library,"A bad experience I had was when I needed books and articles for an economics assignment. I went to the library but couldn't find the books I needed. The librarian was busy and not very helpful, and the computers were slow. I wasted a lot of time and left without getting what I needed.",Negative,Availability of materials
+STU_068,IT Support,Its fast around dorms,Positive,Equipment quality
+STU_069,Teaching-Learning,Nothing specific but i like the class works,Positive,Classroom/learning environment
+STU_069,Teaching-Learning,They teach a lot in a single period it's kind of hard to keep up,Negative,Classroom/learning environment
+STU_069,Teaching-Learning,Some teachers were a little bit angry with some students killing both our time and moral of learning,Negative,Instructor support and interaction
+STU_069,Library,It's big and have the necessary things needed to study well,Positive,Cleanliness
+STU_069,Library,They dont allow us to use computers and it's not allowed to get in while wearing anything other than a gens and I guess that's too bad,Negative,Cleanliness
+STU_069,Library,Nothing much exactly,Positive,Cleanliness
+STU_069,IT Support,Fast internet,Positive,Equipment quality
+STU_069,IT Support,The computers are pretty low on ram making them lag over a simple task,Negative,Computer lab availability
+STU_069,IT Support,Most of the time we are not allowed to use the computers,Negative,Computer lab availability
+STU_069,Registrar,It's good and advanced and easy for users on both the ux and the ui,Positive,Information clarity
+STU_069,Registrar,It had some glitchs,Negative,Information clarity
+STU_069,Cafeteria,Most of the time it provides a good quality food,Positive,Food quality
+STU_069,Cafeteria,The food isnt enough to keep us from hunger,Negative,Food quality
+STU_069,Cafeteria,Nothing bad exactly,Positive,Variety of food
+STU_069,Dormitory,The toilet smells bad,Negative,Cleanliness
+STU_070,Teaching-Learning,Engaging class,Positive,Student engagement
+STU_070,Teaching-Learning,Some teachers get angry easily,Negative,Instructor support and interaction
+STU_070,Teaching-Learning,There is one teacher always makes us afraid,Negative,Instructor support and interaction
+STU_070,Library,They took my earphone,Negative,Staff behavior
+STU_070,IT Support,Some times not working,Negative,Access to systems/platforms
+STU_071,Teaching-Learning,Teacher's are not passion,Negative,Instructor support
+STU_071,Teaching-Learning,It's just theory no skill based,Negative,Practically supported  Teaching environment
+STU_071,Library,It's so best and silent .,Positive,Cleanliness
+STU_071,Library,Wifi problem only,Negative,Internet access
+STU_071,Library,Best things it's safe,Positive,Cleanliness
+STU_071,IT Support,It's fast,Positive,Equipment quality
+STU_071,IT Support,Almost nothing,Neutral,Equipment quality
+STU_071,Registrar,It's save our time,Positive,Waiting time
+STU_071,Cafeteria,It's not good,Negative,Variety of food
+STU_071,Cafeteria,It's food,Positive,Food quality
+STU_071,Dormitory,It's best and save,Positive,Room space
+STU_071,Dormitory,It's toilet is dirty,Negative,Cleanliness
+STU_072,Teaching-Learning,the part when they tell us to cover the chapter ourselves,Positive,Classroom/learning environment
+STU_072,Teaching-Learning,the teachers dont know what they are teaching i asked a simple thing any cci teacher should know .....behold he didn't soo he did what every teacher does try to make fun of me for asking that  question,Negative,Instructor support
+STU_072,Library,the so-called nerds there be reading the book like its a fuckin spell book ...should i be scared not to be cursed or should i study ......fuckin teach them how to read aproprately,Negative,Availability of materials
+STU_072,IT Support,the desktop Pc are ancient they barely work,Negative,Equipment quality
+STU_072,IT Support,internet is allmost perfect,Positive,Internet speed
+STU_072,Registrar,ui /ux ...simplicity,Positive,Information clarity
+STU_072,Registrar,registration time is randomly opened and closed randomly,Neutral,Waiting time
+STU_072,Registrar,i allmost missed registration like everytime there is registration just stick with the damn registration schedule,Negative,Waiting time
+STU_072,Cafeteria,i ate uncooked food once ...... Karma will get you one day i will pray that day comes sooner,Negative,Food quality
+STU_072,Dormitory,its free,Positive,Room space
+STU_072,Dormitory,the fuckin toilet either teach them how to use it or hire someone to flush the toilet cleanliness,Negative,Cleanliness
+STU_072,Dormitory,there are insane proctors im not even kidding ...one of them was standing infront of a wall for like 40 min fixing his clothe as if he was looking at a mirror note that he was 1/2 meter away from the wall .......the other one walks around with pant and shirt that barely covers his belly button at bate ....he talk to himself curses at random person  random deep conversation with himself cursing randomly,Negative,Room space
+STU_073,Teaching-Learning,most of instructors use amharic language Idon't know amharic,Negative,Instructor support
+STU_073,Teaching-Learning,staying 2 hours per period in the class afternoon,Neutral,Classroom/learning environment
+STU_073,Library,some students discuss and distrubt in the library,Negative,Cleanliness
+STU_073,IT Support,there is no technical helpers,Negative,Technical support
+STU_073,Registrar,simple to access,Positive,System reliability
+STU_073,Registrar,filing my personal information properly,Neutral,Information clarity
+STU_073,Registrar,writing my information by amharic,Neutral,Information clarity
+STU_073,Dormitory,living with bad people,Negative,Room space
+STU_074,Teaching-Learning,Explaination of our teachers,Neutral,Clarity of instruction
+STU_074,Teaching-Learning,Different exam challenge exist,Negative,Fairness of assessment
+STU_074,Library,Because it is quite place,Positive,Cleanliness
+STU_074,Library,Some noice exist,Negative,Staff behavior
+STU_074,Library,I have good experience,Positive,Cleanliness
+STU_074,Registrar,Busy network,Negative,Process speed
+STU_075,Teaching-Learning,Have no problem,Positive,Classroom/learning environment
+STU_075,IT Support,We have lack internet,Negative,Internet speed
+STU_075,IT Support,Problem wifi speed,Negative,Network stability
+STU_075,Registrar,Limeted wifi,Negative,Process speed
+STU_075,Registrar,Problem internet,Negative,Process speed
+STU_075,Cafeteria,Shortage of lunch,Negative,Variety of food
+STU_075,Cafeteria,low Quality food,Negative,Food quality
+STU_075,Dormitory,Sound of other students is disturbing,Negative,Room space
+STU_075,Dormitory,Every thing is good for me,Positive,Room space
+STU_076,Teaching-Learning,Fear,Negative,Instructor support and interaction
+STU_076,Library,Quit place,Positive,Cleanliness
+STU_076,Registrar,"Registration is hardly difficult because you put heavy burden on student on Registration, system is busy , it is first time for students to register in online",Negative,Waiting time
+STU_077,Teaching-Learning,note taking from what the teacher speak.,Positive,Instructor support
+STU_077,Teaching-Learning,i have most of good learning experience.,Positive,Classroom/learning environment
+STU_077,Library,the environment was good for studying at night.,Positive,Study space
+STU_077,Library,it's coldness.,Negative,Study space
+STU_077,IT Support,it's importance to help student to support their learning system.,Positive,Technical support
+STU_077,IT Support,limiting time usage.,Negative,Equipment quality
+STU_077,IT Support,disturbance of colleague.,Negative,Equipment quality
+STU_077,Registrar,it is simple and accessible any were at the time of the registration.,Positive,Waiting time
+STU_077,Registrar,no challenge,Positive,Information clarity
+STU_077,Cafeteria,the capacity to feed all of the cafeteria user student,Neutral,Variety of food
+STU_077,Cafeteria,insatiability of the food goodness.,Negative,Food quality
+STU_077,Cafeteria,good user of cafeteria,Positive,Variety of food
+STU_077,Dormitory,social life,Positive,Room space
+STU_077,Dormitory,living in harmony,Positive,Room space
+STU_077,Dormitory,bad experience living with different behavior.,Neutral,Room space
+STU_078,Teaching-Learning,i had information that helped me in my daily life,Neutral,Classroom/learning environment
+STU_078,IT Support,it makes getting information faster,Positive,Equipment quality
+STU_079,Teaching-Learning,"I like the interactive teaching style, group discussions, and practical examples",Positive,Practically supported  Teaching environment
+STU_079,Teaching-Learning,Sometimes the classes are more theoretical than practical.,Negative,Practically supported  Teaching environment
+STU_079,Library,Most of the time is not taken so i dn't,Negative,Cleanliness
+STU_079,Library,I think good,Positive,Cleanliness
+STU_079,IT Support,Better,Positive,Equipment quality
+STU_079,Registrar,time limit is short,Negative,Waiting time
+STU_079,Cafeteria,Bad the food menu is every time changed ,Negative,Food quality
+STU_079,Cafeteria,Some how good,Neutral,Variety of food
+STU_079,Dormitory,Good some how,Positive,Room space
+STU_079,Dormitory,The toilet and bathroom is good,Positive,Cleanliness
+STU_079,Dormitory,Some good,Positive,Room space
+STU_080,Teaching-Learning,Asking question,Neutral,Classroom/learning environment
+STU_080,Teaching-Learning,Time management,Neutral,Classroom/learning environment
+STU_080,Library,Phone ringing sound,Negative,Study space
+STU_081,Teaching-Learning,Asking and answering,Neutral,Classroom/learning environment
+STU_081,Teaching-Learning,Almost all teacher is focus on attendance,Negative,Instructor support
+STU_081,Teaching-Learning,Almost all are good experience,Positive,Classroom/learning environment
+STU_081,Library,The silence,Positive,Cleanliness
+STU_081,Library,"Internet problem
+It's difficult to access internet and to access different platform",Negative,Internet access
+STU_081,Library,All are good,Positive,Cleanliness
+STU_081,IT Support,There is no problem,Neutral,Equipment quality
+STU_081,IT Support,The connection is limited,Negative,Equipment quality
+STU_081,Registrar,It is easy to registered,Positive,Information clarity
+STU_081,Registrar,The network is difficult when we register,Negative,Information clarity
+STU_081,Cafeteria,The time ,Neutral,Variety of food
+STU_081,Cafeteria,"The food is not good 
+The Hygiene is not good",Negative,Hygiene
